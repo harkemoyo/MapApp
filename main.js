@@ -343,7 +343,7 @@ _getFromLocalStorage(){
   }
 }
 const app = new App();
-// ``
+// 
 // console.log(app);
 
 // if (navigator.geolocation)
